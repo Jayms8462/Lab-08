@@ -41,7 +41,7 @@ lab-06-repository
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-(Ludwin) Number and name of feature: First Feature: Repository Setup
+Ludwin Number and name of feature: First Feature: Repository Setup
 
 Estimate of time needed to complete: 1 hour
 
@@ -52,7 +52,7 @@ Finish time: 7:30 pm
 Actual time needed to complete: 30 min.
 ```
 
-(AJ) Number and name of feature: Add Darksky.json to project
+Number and name of feature: Add Darksky.json to project
 
 Estimate of time needed to complete: 2 hours
 
@@ -61,18 +61,6 @@ Start time: 1500
 Finish time: 2100
 
 Actual time needed to complete: 6 hours
-Add this information to your README.
-```
-
-(AJ) Number and name of feature: Add Error Handling
-
-Estimate of time needed to complete: 10 Min
-
-Start time: 2030
-
-Finish time: 2040
-
-Actual time needed to complete: 10 Min
 Add this information to your README.
 ```
 
